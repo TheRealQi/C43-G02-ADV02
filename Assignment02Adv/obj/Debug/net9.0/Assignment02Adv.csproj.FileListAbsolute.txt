@@ -1,0 +1,14 @@
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\bin\Debug\net9.0\Assignment02Adv.exe
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\bin\Debug\net9.0\Assignment02Adv.deps.json
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\bin\Debug\net9.0\Assignment02Adv.runtimeconfig.json
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\bin\Debug\net9.0\Assignment02Adv.dll
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\bin\Debug\net9.0\Assignment02Adv.pdb
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\Assignment02Adv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\Assignment02Adv.AssemblyInfoInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\Assignment02Adv.AssemblyInfo.cs
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\Assignment02Adv.csproj.CoreCompileInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\Assignment02Adv.dll
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\refint\Assignment02Adv.dll
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\Assignment02Adv.pdb
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\Assignment02Adv.genruntimeconfig.cache
+C:\Users\TheRe\RiderProjects\Assignment02Adv\Assignment02Adv\obj\Debug\net9.0\ref\Assignment02Adv.dll
